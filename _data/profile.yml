@@ -1,10 +1,11 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Sun"
+secondary_name: "Xinyu"
+navbar_name: "luke"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+  - name: Ph.D. Student, Beijing Jiaotong University
+  - name: Visiting Ph.D. Student, National University of Singapore
+  - name: Joint Training, Institute of Automation, Chinese Academy of Sciences
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -22,12 +23,32 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a third-year Ph.D. student in the School of Computer Science
+    and Technology at Beijing Jiaotong University, advised by
+    <a href="https://faculty.bjtu.edu.cn/7968/" target="_blank">Prof. Congyan Lang</a>.
+    My master's and doctoral research has been conducted at the
+    Key Laboratory of Transportation Big Data and Artificial
+    Intelligence, Ministry of Education.
+    I received my bachelor's and master's degrees from the same
+    school in 2022 and 2024, respectively.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am currently a visiting Ph.D. student in the
+    <a href="https://sites.google.com/view/xml-nus" target="_blank">xML Lab</a>,
+    <a href="https://cde.nus.edu.sg/" target="_blank">College of Design and Engineering</a>,
+    National University of Singapore, hosted by
+    <a href="https://sites.google.com/site/sitexinchaowang/" target="_blank">Assoc. Prof. Xinchao Wang</a>
+    and supported by the China Scholarship Council (CSC).
+    My research experience also includes joint training at the
+    State Key Laboratory of Pattern Recognition, Institute of
+    Automation, Chinese Academy of Sciences, during 2023–2026.
+  </p>
+  <p>
+    My research focuses on low-level vision, particularly
+    <strong>image signal processing (ISP) parameter optimization</strong>.
+    I aim to develop automatic and adaptive tuning methods for
+    ISP pipelines to improve image quality and support downstream
+    vision tasks.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,22 +56,46 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+education:
+  - name: Beijing Jiaotong University
+    position: >-
+      Ph.D. Student <br/>
+      School of Computer Science and Technology <br/>
+      Key Laboratory of Transportation Big Data and Artificial
+      Intelligence, Ministry of Education <br/>
+      Advisor: Prof. Congyan Lang
+    date: Sep. 2024 - present
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+  - name: Beijing Jiaotong University
+    position: >-
+      Master's Degree <br/>
+      School of Computer Science and Technology <br/>
+      Key Laboratory of Transportation Big Data and Artificial
+      Intelligence, Ministry of Education <br/>
+      Advisor: Prof. Congyan Lang
+    date: Sep. 2022 - Jun. 2024
+
+  - name: Beijing Jiaotong University
+    position: >-
+      Bachelor's Degree <br/>
+      School of Computer Science and Technology
+    date: Sep. 2018 - Jun. 2022
+
+experience:
+  - name: National University of Singapore
+    position: >-
+      Visiting Ph.D. Student <br/>
+      College of Design and Engineering <br/>
+      xML Lab <br/>
+      Host: Assoc. Prof. Xinchao Wang <br/>
+      Supported by the China Scholarship Council (CSC)
+    date: Sep. 2026 - Sep. 2027
+
+  - name: Institute of Automation, Chinese Academy of Sciences
+    position: >-
+      Joint Training <br/>
+      State Key Laboratory of Pattern Recognition
+    date: 2023 - 2026
 
 awards:
 - name: Award Name 2
