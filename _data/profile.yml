@@ -3,8 +3,8 @@ secondary_name: "Xinyu"
 navbar_name: "luke"
 
 positions:
-  - name: Ph.D. Student, Beijing Jiaotong University
-  - name: Visiting Ph.D. Student, National University of Singapore
+  - name: Ph.D, Beijing Jiaotong University
+  - name: Visiting Ph.D, National University of Singapore
   - name: Joint Training, Institute of Automation, Chinese Academy of Sciences
   # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -29,8 +29,7 @@ short_bio: >-
     My master's and doctoral research has been conducted at the
     Key Laboratory of Transportation Big Data and Artificial
     Intelligence, Ministry of Education.
-    I received my bachelor's and master's degrees from the same
-    school in 2022 and 2024, respectively.
+    I received my bachelor's from BJTU in 2022.
   </p>
   <p>
     I am currently a visiting Ph.D. student in the
