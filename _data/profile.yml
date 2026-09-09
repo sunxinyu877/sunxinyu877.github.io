@@ -61,17 +61,23 @@ education:
   - name: Beijing Jiaotong University
     logo: /assets/images/badges/bjtu.png
     dept: School of Computer Science and Technology
-    lab: Key Laboratory of Transportation Big Data and Artificial Intelligence, Ministry of Education
-    position: Ph.D. Student
-    Advisor: Prof. Congyan Lang
+     <br/>
+      Key Laboratory of Transportation Big Data and Artificial
+      Intelligence, Ministry of Education
+    position: >-
+      Ph.D. Student <br/>
+      Advisor: Prof. Congyan Lang
     date: Sep. 2024 - present
 
   - name: Beijing Jiaotong University
     logo: /assets/images/badges/bjtu.png
     dept: School of Computer Science and Technology
-    lab: Key Laboratory of Transportation Big Data and Artificial Intelligence, Ministry of Education
-    position: Master's Degree
-    Advisor: Prof. Congyan Lang
+     <br/>
+      Key Laboratory of Transportation Big Data and Artificial
+      Intelligence, Ministry of Education
+    position: >-
+      Ph.D. Student <br/>
+      Advisor: Prof. Congyan Lang
     date: Sep. 2022 - Jun. 2024
     
   - name: Beijing Jiaotong University
@@ -97,9 +103,29 @@ experience:
     date: 2023 - 2026
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  - name: "First-Class Academic Scholarship, Beijing Jiaotong University"
+    date: "2022–2025"
+
+  - name: "Outstanding Graduate Student, Beijing Jiaotong University"
+    date: "2022–2025"
+
+  - name: "National College Student Innovation and Entrepreneurship Competition"
+    date: "2021"
+
+  - name: "Second Prize, China Collegiate Computing Design Competition"
+    date: "2021"
+
+  - name: "First Prize, Beijing Jiaotong University Challenge Cup"
+    date: "2021"
+
+  <h6 class="mt-3">Academic Service</h6>
+  <p>
+    <strong>Journal Reviewer:</strong><br/>
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
+    IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  </p>
+  <p>
+    <strong>Conference Reviewer:</strong>
+    CVPR, ICCV, and AAAI
+  </p>
+
