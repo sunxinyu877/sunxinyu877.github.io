@@ -61,23 +61,23 @@ education:
   - name: Beijing Jiaotong University
     logo: /assets/images/badges/bjtu.png
     dept: School of Computer Science and Technology
+    lab: Key Laboratory of Transportation Big Data and Artificial Intelligence, Ministry of Education
     position: Ph.D. Student
     Advisor: Prof. Congyan Lang
     date: Sep. 2024 - present
 
   - name: Beijing Jiaotong University
-    position: >-
-      Master's Degree <br/>
-      School of Computer Science and Technology <br/>
-      Key Laboratory of Transportation Big Data and Artificial
-      Intelligence, Ministry of Education <br/>
-      Advisor: Prof. Congyan Lang
+    logo: /assets/images/badges/bjtu.png
+    dept: School of Computer Science and Technology
+    lab: Key Laboratory of Transportation Big Data and Artificial Intelligence, Ministry of Education
+    position: Master's Degree
+    Advisor: Prof. Congyan Lang
     date: Sep. 2022 - Jun. 2024
-
+    
   - name: Beijing Jiaotong University
-    position: >-
-      Bachelor's Degree <br/>
-      School of Computer Science and Technology
+    logo: /assets/images/badges/bjtu.png
+    dept: School of Computer Science and Technology
+    position: Bachelor's Degree
     date: Sep. 2018 - Jun. 2022
 
 experience:
