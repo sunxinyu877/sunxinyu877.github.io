@@ -76,7 +76,7 @@ education:
       Key Laboratory of Transportation Big Data and Artificial
       Intelligence, Ministry of Education
     position: >-
-      Ph.D. Student <br/>
+      Master's Degree <br/>
       Advisor: Prof. Congyan Lang
     date: Sep. 2022 - Jun. 2024
     
@@ -118,7 +118,7 @@ awards:
   - name: "First Prize, Beijing Jiaotong University Challenge Cup"
     date: "2021"
 
-  <h6 class="mt-3">Academic Service</h6>
+academic service:
   <p>
     <strong>Journal Reviewer:</strong><br/>
     IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br/>
