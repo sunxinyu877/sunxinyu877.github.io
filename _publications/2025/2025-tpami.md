@@ -2,6 +2,7 @@
 title: "Reinforcement Learning-Based Sequential Parameter Tuning for Image Signal Processing"
 date: 2025-01-01
 selected: true
+cover: /assets/images/covers/tpami-isp.png
 
 pub: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 pub_date: "2025"
